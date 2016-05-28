@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+<style>
+	body{
+		color:#FFF;
+		}
+	.section{
+		text-align:center;}
+	.section1{
+		background-color:orange;
+		}
+	.section2{
+		background-color:#000;
+		}
+	.section3{
+		background-color:blue;
+		}
+	.section4{
+		background-color:red;
+		}
+	.slide{
+		font-size:60px;
+		text-align:center;}
+	#menu{
+		position:fixed;
+		top:40%;
+		right:1%;
+		font-size:30px;
+		}
+	ul{
+		list-style-type: none;
+		}
+	a:link {
+    	color:#999;
+    	text-decoration:none;
+    	}
+	a:visited {
+    color:#999;
+    text-decoration:none;
+    }
+	a:hover {
+    color:#000000;
+    text-decoration:none;
+    }
+    a:active {
+    color:#FFFFFF;
+    text-decoration:none;
+    }	
+</style>
+
