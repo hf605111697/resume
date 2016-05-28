@@ -1,8 +1,10 @@
-var myChart=echarts.init(document.getElementById("pic"));
 var options = {
      title: {
-        text: ' 我的技能',
-        x:'center'
+        text: '我的技能',
+        x:'center',
+		textStyle:{
+			fontSize:60
+			},
     },
     tooltip: {
         trigger: 'item',
@@ -35,7 +37,7 @@ var options = {
                 {value:50, name:'CSS'},
                 {value:50, name:'JavaScript'},
                 {value:50, name:'jquer'},
-                {value:50, name:'photosh'}
+                {value:50, name:'Photoshop'}
             ]
         },
         {
@@ -57,4 +59,3 @@ var options = {
         }
     ]
 };
-myChart.setOption(options);
