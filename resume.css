@@ -1,0 +1,119 @@
+
+	body{
+		color:#FFF;
+		}
+	#page2information{
+		clear:both;
+		line-height:2em;
+		font-family:"微软雅黑";
+		margin:0 70%;
+		padding-top:100px;
+		font-size:30px;
+		width:800px;}
+	.icon{
+		padding-right:8px;
+		margin-bottom:-5px;}
+	.section1{
+		text-align:center;
+		background-color:orange;
+		background-image: url(https://raw.githubusercontent.com/hf605111697/resume/master/Cg-4WVU4rHmIFYmFABUJqe9a4PIAACH7wMMjKkAFQnB489.jpg);
+		background-repeat: no-repeat;
+        background-position:center;
+		background-size:cover;
+		opacity:0.8;
+		}
+	#face{
+		border-radius:300px;
+		margin-top:10%;
+	}
+	#face2{
+		border-radius:300px;
+		float:left;
+		margin-top:10%;
+		}
+	#page2introduce{
+		float:left;
+		margin-top:10%;
+		margin-left:5%;
+		border-left:5px #FFF solid;
+		padding-left:100px;
+		font-family:"锐字锐线怒放黑简1.0";
+		}
+	#brief{
+		font-family:"锐字锐线怒放黑简1.0";
+		font-size:30px}
+	.section2{
+		background-image:url(https://raw.githubusercontent.com/hf605111697/resume/master/b2.jpg);
+		background-size:cover;
+		background-repeat: no-repeat;
+        background-position:center;
+		}
+	.section3{
+		background-color:blue;
+		}
+	.section5{
+		background-image:url(https://raw.githubusercontent.com/hf605111697/resume/master/dbfb5610dcd039928c52e4e82aabb32d654d555a61db9-E860oy_fw658.jpg);
+		background-position:center;
+		background-size:cover;}
+	.section5 .txt1{
+		float:left;
+		margin-top:-15%;
+		margin-left:8%;
+		}
+	.section5 .txt2{
+		clear:both;
+		margin-top:40%;
+		line-height:30px;
+		text-align:right;}
+	.section5 h1{
+		font-family:"锐字锐线怒放黑简1.0";
+		font-size:80px;}
+	.seection5 h3{
+		font-family:"微软雅黑";
+		font-size:30px;}
+	.section5 p{
+		font-family:"微软雅黑";
+		font-size:20px;
+		}		
+	.slide{
+		font-size:60px;
+		text-align:center;}
+	.slide1{
+		background-image:url(https://raw.githubusercontent.com/hf605111697/resume/master/web.jpg);
+		background-size:100%;
+		background-repeat:no-repeat;
+		background-position:center;}
+	.slide2{
+		background-image:url(https://raw.githubusercontent.com/hf605111697/resume/master/Graphic.jpg);
+		background-size:100%;
+		background-repeat:no-repeat;
+		background-position:center;}
+	.section6 img{
+		height:100%;
+		width:100%;}
+	#menu{
+		position:fixed;
+		top:40%;
+		right:1%;
+		font-size:30px;
+		}
+	ul{
+		list-style-type: none;
+		}
+	a:link {
+    	color:#999;
+    	text-decoration:none;
+    	}
+	a:visited {
+    color:#999;
+    text-decoration:none;
+    }
+	a:hover {
+    color:#000000;
+    text-decoration:none;
+    }
+    a:active {
+    color:#FFFFFF;
+    text-decoration:none;
+    }	
+
